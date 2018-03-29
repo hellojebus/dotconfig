@@ -47,5 +47,5 @@ filetype plugin indent on    " required
 color dracula
 
 " move line down/up
-noremap J ddkkp
-noremap K ddp
+noremap K ddkkp
+noremap J ddp
